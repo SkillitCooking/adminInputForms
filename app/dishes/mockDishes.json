@@ -1,0 +1,10 @@
+{
+  "data": {
+    "dishes": [
+      { "_id": "1", "name": "Plate", "ingredientCapacity": "10" },
+      { "_id": "2", "name": "Tray", "ingredientCapacity": "12" },
+      { "_id": "3", "name": "Platter", "ingredientCapacity": "4" },
+      { "_id": "4", "name": "Baking Dish", "ingredientCapacity": "5" }
+    ]
+  }
+}
