@@ -1,0 +1,3 @@
+# specifies files to intentionally ignore when using git
+
+node_modules/
